@@ -12,6 +12,7 @@
 - [Serilog](https://github.com/serilog/serilog) - Logging library with massice customization options and extensibility
 - [Valit](https://github.com/valit-stack/Valit) - Perform validations easier and nicer
 - [SWAN](https://github.com/unosquare/swan) - "Stuff We All Need", set of commonly used things
+- [IdentityModel](https://github.com/IdentityModel/IdentityModel) - helper library for using OpenID Connect and OAuth 2.0
 - [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Benchmarking C#
 - [LiteDB](https://github.com/mbdavid/LiteDB) - Local NoSQL database
 - [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - Redis Client
