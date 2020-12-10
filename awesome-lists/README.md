@@ -28,3 +28,7 @@
 - [Awesome GO](https://github.com/avelino/awesome-go)
 - [Awesome .NET](https://github.com/quozd/awesome-dotnet)
 - [Awesome Steam (Programming)](https://github.com/scholtzm/awesome-steam)
+
+## LaTeX
+
+- [Awesome TikZ Libaries](https://github.com/xiaohanyu/awesome-tikz)
