@@ -32,3 +32,4 @@
 ## LaTeX
 
 - [Awesome TikZ Libaries](https://github.com/xiaohanyu/awesome-tikz)
+- [LaTeX Diagrams](https://github.com/FriendlyUser/LatexDiagrams)
